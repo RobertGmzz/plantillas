@@ -1,9 +1,9 @@
-import { BurguerLanding } from "./burguer-landing/burguer-landing"
+import { FoodLanding } from "./burguer-landing/food-landing"
 
 function App() {
 
   return (
-    <BurguerLanding />
+    <FoodLanding />
   )
 }
 
